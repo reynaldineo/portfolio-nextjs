@@ -13,27 +13,33 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            I’m Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea
-            optio eaque obcaecati minus, eum tempora et fugiat itaque
-            repudiandae animi sit quaerat excepturi repellat earum iste beatae
-            quia est consequatur magnam natus esse doloremque illum dicta.
-            Aspernatur voluptate saepe fuga iusto nostrum velit doloremque
-            adipisci quasi neque iste nemo sit voluptas, explicabo aliquid
-            consequuntur est exercitationem odit possimus maiores, sed corrupti
-            nam quo obcaecati molestiae. Quis quidem asperiores doloremque
-            accusamus, soluta alias suscipit, doloribus explicabo quos quas illo
-            eligendi cumque.
+            Hello, Let me introduce myself. My name is Reynaldi Neo Ramadhani. I
+            am a student of computer science at Institut Teknologi Sepuluh
+            Nopember (ITS). Currently, I am pursuing a degree in bachelor and I
+            am in second semester.
           </p>
           <p className="py-2 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit id
-            sequi iusto veritatis neque magnam inventore quis ea similique
-            assumenda ipsum expedita debitis consequatur ad, exercitationem enim
-            repellendus. Quam ratione expedita placeat ipsa eum molestiae
-            dolorem iusto, porro temporibus, beatae odio aliquid sapiente,
-            architecto sed quod non adipisci quis dolores. Laborum inventore
-            voluptates dicta nihil unde accusamus at omnis ipsam eos minus
-            aliquid illum, neque ullam optio voluptate animi blanditiis aut
-            laboriosam qui perspiciatis.
+            As a student, I have a great interest in Website Development. I
+            always try to develop myself and expand my knowledge by
+            participating in various activities such as community and committee.
+          </p>
+
+          <p className="py-2 text-gray-600">
+            Furthermore, I have experience in various projects related to my
+            major. The project provided me with a lot of valuable lessons and
+            experiences that I believe will be useful in the future.
+          </p>
+
+          <p className="py-2 text-gray-600">
+            Currently, I am building a portfolio that showcases my works and
+            achievements during my college years. In this portfolio, I will
+            demonstrate my skills and potentials to the readers and potential
+            employers.
+          </p>
+
+          <p className="py-2 text-gray-600">
+            Thank you for your time and attention. I hope to work with you in
+            the future.
           </p>
           <Link href="/#projects">
             <p className="py-2 text-gray-600 underline cursor-pointer">
