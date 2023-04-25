@@ -18,16 +18,16 @@ const Projects = () => {
         <h2 className="py-4">What I&apos;ve Built</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
-            title="Temp 1"
+            title="Whack a Mole"
             backgroundImg={tempGithub}
-            projectUrl=""
-            tech="React JS"
+            projectUrl="https://reynaldineo.github.io/whack-a-mole/"
+            tech="Vanilla Javascript"
           />
           <ProjectItem
-            title="Temp 2"
+            title="Landing Page"
             backgroundImg={tempGithub}
-            projectUrl=""
-            tech="React JS"
+            projectUrl="https://reynaldineo.github.io/landing-page-sass/"
+            tech="Bootstrap & Sass"
           />
           <ProjectItem
             title="Temp 3"
