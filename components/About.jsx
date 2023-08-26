@@ -16,7 +16,7 @@ const About = () => {
             Hello, Let me introduce myself. My name is Reynaldi Neo Ramadhani. I
             am a student of computer science at Institut Teknologi Sepuluh
             Nopember (ITS). Currently, I am pursuing a degree in bachelor and I
-            am in second semester.
+            am in third semester.
           </p>
           <p className="py-2 text-gray-600">
             As a student, I have a great interest in Website Development. I
