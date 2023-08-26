@@ -18,6 +18,19 @@ const Projects = () => {
         <h2 className="py-4">What I&apos;ve Built</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
+            title="Intern Barunastra"
+            backgroundImg={tempGithub}
+            projectUrl="https://magang-kelompok3.vercel.app/"
+            tech="Next Js, Typescript & Tailwind CSS"
+          />
+          <ProjectItem
+            title="Movie with Axios"
+            backgroundImg={tempGithub}
+            // projectUrl='/twitch'
+            projectUrl="https://movie-axios.vercel.app/"
+            tech="React, Tailwind, & Axios"
+          />
+          <ProjectItem
             title="Whack a Mole"
             backgroundImg={tempGithub}
             projectUrl="https://reynaldineo.github.io/whack-a-mole/"
@@ -28,19 +41,6 @@ const Projects = () => {
             backgroundImg={tempGithub}
             projectUrl="https://reynaldineo.github.io/landing-page-sass/"
             tech="Bootstrap & Sass"
-          />
-          <ProjectItem
-            title="Temp 3"
-            backgroundImg={tempGithub}
-            projectUrl=""
-            tech="React JS"
-          />
-          <ProjectItem
-            title="Temp 4"
-            backgroundImg={tempGithub}
-            // projectUrl='/twitch'
-            projectUrl=""
-            tech="Next JS"
           />
         </div>
       </div>
